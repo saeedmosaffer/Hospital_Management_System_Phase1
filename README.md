@@ -143,8 +143,3 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 If you find this project useful, consider giving it a ⭐ on GitHub!
-
----
-
-This **README** provides a comprehensive overview of the project, making it easy for users and contributors to understand, install, and use your **Hospital Management System**. 🚀
-
